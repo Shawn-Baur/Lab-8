@@ -4,7 +4,7 @@ Partner for Traffic Controller: Meher Nagpal
 
 FileQ&A and WebCrawlerQ&A files can be found in /Lab8_Nagpal_Meher/openai-cookbook-main/apps
 
-Youtube Playlist Link: 
+Youtube Playlist Link: https://www.youtube.com/playlist?list=PLIlVQUoUSX1tPbA5wOU5MXpYHnR_nRtN1
 
-Github Link: 
+Github Link: https://github.com/Shawn-Baur/Lab-8
  
