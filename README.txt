@@ -3,6 +3,7 @@ Shawn Baur
 Partner for Traffic Controller: Meher Nagpal
 
 FileQ&A and WebCrawlerQ&A files can be found in /Lab 8/openai-cookbook-main/apps
+Traffic controller FSM is code for the GPIO pins on the Kria board
 
 Youtube Playlist Link: https://www.youtube.com/playlist?list=PLIlVQUoUSX1tPbA5wOU5MXpYHnR_nRtN1
 
